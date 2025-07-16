@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Poppins-Bold'; /* الاسم الذي ستستخدمه لاحقًا */
+  src: url('fonts/Poppins-ExtraBold.ttf') format('truetype'); /* المسار ونوع الخط */
+}
+
+*{
+    font-family: 'Poppins-Bold', sans-serif;
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
